@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Isha Jagat
+- 👀 I’m interested in learning new Technologies
+- 🌱 I’m currently learning AI & NN
